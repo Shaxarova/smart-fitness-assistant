@@ -1,0 +1,489 @@
+2026-05-19 21:22:04,226 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-19 21:22:04,227 [INFO] apscheduler.scheduler: Added job "check_and_send_reminders" to job store "default"
+2026-05-19 21:22:04,227 [INFO] apscheduler.scheduler: Scheduler started
+2026-05-19 21:22:04,227 [INFO] bot.scheduler: Scheduler started — checking reminders every 30 seconds.
+2026-05-19 21:22:04,227 [INFO] __main__: Bot is starting in polling mode...
+2026-05-19 21:22:34,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:23:04 +05)" (scheduled at 2026-05-19 21:22:34.226524+05:00)
+2026-05-19 21:22:34,243 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:23:04 +05)" executed successfully
+2026-05-19 21:23:04,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:23:34 +05)" (scheduled at 2026-05-19 21:23:04.226524+05:00)
+2026-05-19 21:23:04,235 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:23:34 +05)" executed successfully
+2026-05-19 21:23:34,228 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:24:04 +05)" (scheduled at 2026-05-19 21:23:34.226524+05:00)
+2026-05-19 21:23:34,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:24:04 +05)" executed successfully
+2026-05-19 21:24:04,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:24:34 +05)" (scheduled at 2026-05-19 21:24:04.226524+05:00)
+2026-05-19 21:24:04,237 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:24:34 +05)" executed successfully
+2026-05-19 21:24:34,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:25:04 +05)" (scheduled at 2026-05-19 21:24:34.226524+05:00)
+2026-05-19 21:24:34,234 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:25:04 +05)" executed successfully
+2026-05-19 21:25:04,283 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:25:34 +05)" (scheduled at 2026-05-19 21:25:04.226524+05:00)
+2026-05-19 21:25:04,289 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:25:34 +05)" executed successfully
+2026-05-19 21:25:34,228 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:26:04 +05)" (scheduled at 2026-05-19 21:25:34.226524+05:00)
+2026-05-19 21:25:34,232 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:26:04 +05)" executed successfully
+2026-05-19 21:26:04,230 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:26:34 +05)" (scheduled at 2026-05-19 21:26:04.226524+05:00)
+2026-05-19 21:26:04,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:26:34 +05)" executed successfully
+2026-05-19 21:26:34,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:27:04 +05)" (scheduled at 2026-05-19 21:26:34.226524+05:00)
+2026-05-19 21:26:34,241 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:27:04 +05)" executed successfully
+2026-05-19 21:27:04,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:27:34 +05)" (scheduled at 2026-05-19 21:27:04.226524+05:00)
+2026-05-19 21:27:04,238 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:27:34 +05)" executed successfully
+2026-05-19 21:27:34,234 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:28:04 +05)" (scheduled at 2026-05-19 21:27:34.226524+05:00)
+2026-05-19 21:27:34,243 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:28:04 +05)" executed successfully
+2026-05-19 21:28:04,229 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:28:34 +05)" (scheduled at 2026-05-19 21:28:04.226524+05:00)
+2026-05-19 21:28:04,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:28:34 +05)" executed successfully
+2026-05-19 21:28:34,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:29:04 +05)" (scheduled at 2026-05-19 21:28:34.226524+05:00)
+2026-05-19 21:28:34,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:29:04 +05)" executed successfully
+2026-05-19 21:29:04,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:29:34 +05)" (scheduled at 2026-05-19 21:29:04.226524+05:00)
+2026-05-19 21:29:04,237 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:29:34 +05)" executed successfully
+2026-05-19 21:29:34,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:30:04 +05)" (scheduled at 2026-05-19 21:29:34.226524+05:00)
+2026-05-19 21:29:34,235 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:30:04 +05)" executed successfully
+2026-05-19 21:30:04,229 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:30:34 +05)" (scheduled at 2026-05-19 21:30:04.226524+05:00)
+2026-05-19 21:30:04,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:30:34 +05)" executed successfully
+2026-05-19 21:30:34,230 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:31:04 +05)" (scheduled at 2026-05-19 21:30:34.226524+05:00)
+2026-05-19 21:30:34,234 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:31:04 +05)" executed successfully
+2026-05-19 21:31:04,230 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:31:34 +05)" (scheduled at 2026-05-19 21:31:04.226524+05:00)
+2026-05-19 21:31:04,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:31:34 +05)" executed successfully
+2026-05-19 21:31:34,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:32:04 +05)" (scheduled at 2026-05-19 21:31:34.226524+05:00)
+2026-05-19 21:31:34,244 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:32:04 +05)" executed successfully
+2026-05-19 21:32:04,232 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:32:34 +05)" (scheduled at 2026-05-19 21:32:04.226524+05:00)
+2026-05-19 21:32:04,239 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:32:34 +05)" executed successfully
+2026-05-19 21:32:34,231 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:33:04 +05)" (scheduled at 2026-05-19 21:32:34.226524+05:00)
+2026-05-19 21:32:34,233 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-19 21:33:04 +05)" executed successfully
+2026-05-20 01:55:15,691 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-20 01:55:15,692 [INFO] apscheduler.scheduler: Added job "check_and_send_reminders" to job store "default"
+2026-05-20 01:55:15,692 [INFO] apscheduler.scheduler: Scheduler started
+2026-05-20 01:55:15,693 [INFO] bot.scheduler: Scheduler started — checking reminders every 30 seconds.
+2026-05-20 01:55:15,693 [INFO] __main__: Bot is starting in polling mode...
+2026-05-20 01:55:45,704 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:56:15 +05)" (scheduled at 2026-05-20 01:55:45.691567+05:00)
+2026-05-20 01:55:45,709 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:56:15 +05)" executed successfully
+2026-05-20 01:56:15,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:56:45 +05)" (scheduled at 2026-05-20 01:56:15.691567+05:00)
+2026-05-20 01:56:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:56:45 +05)" executed successfully
+2026-05-20 01:56:45,699 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:57:15 +05)" (scheduled at 2026-05-20 01:56:45.691567+05:00)
+2026-05-20 01:56:45,701 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:57:15 +05)" executed successfully
+2026-05-20 01:57:15,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:57:45 +05)" (scheduled at 2026-05-20 01:57:15.691567+05:00)
+2026-05-20 01:57:15,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:57:45 +05)" executed successfully
+2026-05-20 01:57:45,699 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:58:15 +05)" (scheduled at 2026-05-20 01:57:45.691567+05:00)
+2026-05-20 01:57:45,700 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:58:15 +05)" executed successfully
+2026-05-20 01:58:15,693 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:58:45 +05)" (scheduled at 2026-05-20 01:58:15.691567+05:00)
+2026-05-20 01:58:15,694 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:58:45 +05)" executed successfully
+2026-05-20 01:58:45,698 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:59:15 +05)" (scheduled at 2026-05-20 01:58:45.691567+05:00)
+2026-05-20 01:58:45,699 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:59:15 +05)" executed successfully
+2026-05-20 01:59:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:59:45 +05)" (scheduled at 2026-05-20 01:59:15.691567+05:00)
+2026-05-20 01:59:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 01:59:45 +05)" executed successfully
+2026-05-20 01:59:45,699 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:00:15 +05)" (scheduled at 2026-05-20 01:59:45.691567+05:00)
+2026-05-20 01:59:45,700 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:00:15 +05)" executed successfully
+2026-05-20 02:00:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:00:45 +05)" (scheduled at 2026-05-20 02:00:15.691567+05:00)
+2026-05-20 02:00:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:00:45 +05)" executed successfully
+2026-05-20 02:00:45,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:01:15 +05)" (scheduled at 2026-05-20 02:00:45.691567+05:00)
+2026-05-20 02:00:45,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:01:15 +05)" executed successfully
+2026-05-20 02:01:15,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:01:45 +05)" (scheduled at 2026-05-20 02:01:15.691567+05:00)
+2026-05-20 02:01:15,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:01:45 +05)" executed successfully
+2026-05-20 02:01:45,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:02:15 +05)" (scheduled at 2026-05-20 02:01:45.691567+05:00)
+2026-05-20 02:01:45,710 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:02:15 +05)" executed successfully
+2026-05-20 02:02:15,695 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:02:45 +05)" (scheduled at 2026-05-20 02:02:15.691567+05:00)
+2026-05-20 02:02:15,696 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:02:45 +05)" executed successfully
+2026-05-20 02:02:45,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:03:15 +05)" (scheduled at 2026-05-20 02:02:45.691567+05:00)
+2026-05-20 02:02:45,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:03:15 +05)" executed successfully
+2026-05-20 02:03:15,699 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:03:45 +05)" (scheduled at 2026-05-20 02:03:15.691567+05:00)
+2026-05-20 02:03:15,700 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:03:45 +05)" executed successfully
+2026-05-20 02:03:45,704 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:04:15 +05)" (scheduled at 2026-05-20 02:03:45.691567+05:00)
+2026-05-20 02:03:45,705 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:04:15 +05)" executed successfully
+2026-05-20 02:04:15,701 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:04:45 +05)" (scheduled at 2026-05-20 02:04:15.691567+05:00)
+2026-05-20 02:04:15,702 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:04:45 +05)" executed successfully
+2026-05-20 02:04:45,699 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:05:15 +05)" (scheduled at 2026-05-20 02:04:45.691567+05:00)
+2026-05-20 02:04:45,700 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:05:15 +05)" executed successfully
+2026-05-20 02:05:15,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:05:45 +05)" (scheduled at 2026-05-20 02:05:15.691567+05:00)
+2026-05-20 02:05:15,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:05:45 +05)" executed successfully
+2026-05-20 02:05:45,700 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:06:15 +05)" (scheduled at 2026-05-20 02:05:45.691567+05:00)
+2026-05-20 02:05:45,701 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:06:15 +05)" executed successfully
+2026-05-20 02:06:15,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:06:45 +05)" (scheduled at 2026-05-20 02:06:15.691567+05:00)
+2026-05-20 02:06:15,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:06:45 +05)" executed successfully
+2026-05-20 02:06:45,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:07:15 +05)" (scheduled at 2026-05-20 02:06:45.691567+05:00)
+2026-05-20 02:06:45,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:07:15 +05)" executed successfully
+2026-05-20 02:07:15,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:07:45 +05)" (scheduled at 2026-05-20 02:07:15.691567+05:00)
+2026-05-20 02:07:15,708 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:07:45 +05)" executed successfully
+2026-05-20 02:07:45,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:08:15 +05)" (scheduled at 2026-05-20 02:07:45.691567+05:00)
+2026-05-20 02:07:45,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:08:15 +05)" executed successfully
+2026-05-20 02:08:15,692 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:08:45 +05)" (scheduled at 2026-05-20 02:08:15.691567+05:00)
+2026-05-20 02:08:15,693 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:08:45 +05)" executed successfully
+2026-05-20 02:08:45,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:09:15 +05)" (scheduled at 2026-05-20 02:08:45.691567+05:00)
+2026-05-20 02:08:45,709 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:09:15 +05)" executed successfully
+2026-05-20 02:09:15,703 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:09:45 +05)" (scheduled at 2026-05-20 02:09:15.691567+05:00)
+2026-05-20 02:09:15,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:09:45 +05)" executed successfully
+2026-05-20 02:09:45,719 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:10:15 +05)" (scheduled at 2026-05-20 02:09:45.691567+05:00)
+2026-05-20 02:09:45,722 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:10:15 +05)" executed successfully
+2026-05-20 02:10:15,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:10:45 +05)" (scheduled at 2026-05-20 02:10:15.691567+05:00)
+2026-05-20 02:10:15,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:10:45 +05)" executed successfully
+2026-05-20 02:10:45,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:11:15 +05)" (scheduled at 2026-05-20 02:10:45.691567+05:00)
+2026-05-20 02:10:45,708 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:11:15 +05)" executed successfully
+2026-05-20 02:11:15,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:11:45 +05)" (scheduled at 2026-05-20 02:11:15.691567+05:00)
+2026-05-20 02:11:15,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:11:45 +05)" executed successfully
+2026-05-20 02:11:45,693 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:12:15 +05)" (scheduled at 2026-05-20 02:11:45.691567+05:00)
+2026-05-20 02:11:45,694 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:12:15 +05)" executed successfully
+2026-05-20 02:12:15,696 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:12:45 +05)" (scheduled at 2026-05-20 02:12:15.691567+05:00)
+2026-05-20 02:12:15,697 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:12:45 +05)" executed successfully
+2026-05-20 02:12:45,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:13:15 +05)" (scheduled at 2026-05-20 02:12:45.691567+05:00)
+2026-05-20 02:12:45,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:13:15 +05)" executed successfully
+2026-05-20 02:13:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:13:45 +05)" (scheduled at 2026-05-20 02:13:15.691567+05:00)
+2026-05-20 02:13:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:13:45 +05)" executed successfully
+2026-05-20 02:13:45,694 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:14:15 +05)" (scheduled at 2026-05-20 02:13:45.691567+05:00)
+2026-05-20 02:13:45,695 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:14:15 +05)" executed successfully
+2026-05-20 02:14:15,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:14:45 +05)" (scheduled at 2026-05-20 02:14:15.691567+05:00)
+2026-05-20 02:14:15,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:14:45 +05)" executed successfully
+2026-05-20 02:14:45,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:15:15 +05)" (scheduled at 2026-05-20 02:14:45.691567+05:00)
+2026-05-20 02:14:45,708 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:15:15 +05)" executed successfully
+2026-05-20 02:15:15,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:15:45 +05)" (scheduled at 2026-05-20 02:15:15.691567+05:00)
+2026-05-20 02:15:15,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:15:45 +05)" executed successfully
+2026-05-20 02:15:45,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:16:15 +05)" (scheduled at 2026-05-20 02:15:45.691567+05:00)
+2026-05-20 02:15:45,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:16:15 +05)" executed successfully
+2026-05-20 02:16:15,694 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:16:45 +05)" (scheduled at 2026-05-20 02:16:15.691567+05:00)
+2026-05-20 02:16:15,695 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:16:45 +05)" executed successfully
+2026-05-20 02:16:45,704 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:17:15 +05)" (scheduled at 2026-05-20 02:16:45.691567+05:00)
+2026-05-20 02:16:45,706 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:17:15 +05)" executed successfully
+2026-05-20 02:17:15,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:17:45 +05)" (scheduled at 2026-05-20 02:17:15.691567+05:00)
+2026-05-20 02:17:15,708 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:17:45 +05)" executed successfully
+2026-05-20 02:17:45,704 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:18:15 +05)" (scheduled at 2026-05-20 02:17:45.691567+05:00)
+2026-05-20 02:17:45,706 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:18:15 +05)" executed successfully
+2026-05-20 02:18:15,697 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:18:45 +05)" (scheduled at 2026-05-20 02:18:15.691567+05:00)
+2026-05-20 02:18:15,698 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:18:45 +05)" executed successfully
+2026-05-20 02:18:45,696 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:19:15 +05)" (scheduled at 2026-05-20 02:18:45.691567+05:00)
+2026-05-20 02:18:45,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:19:15 +05)" executed successfully
+2026-05-20 02:19:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:19:45 +05)" (scheduled at 2026-05-20 02:19:15.691567+05:00)
+2026-05-20 02:19:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:19:45 +05)" executed successfully
+2026-05-20 02:19:45,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:20:15 +05)" (scheduled at 2026-05-20 02:19:45.691567+05:00)
+2026-05-20 02:19:45,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:20:15 +05)" executed successfully
+2026-05-20 02:20:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:20:45 +05)" (scheduled at 2026-05-20 02:20:15.691567+05:00)
+2026-05-20 02:20:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:20:45 +05)" executed successfully
+2026-05-20 02:20:45,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:21:15 +05)" (scheduled at 2026-05-20 02:20:45.691567+05:00)
+2026-05-20 02:20:45,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:21:15 +05)" executed successfully
+2026-05-20 02:21:15,703 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:21:45 +05)" (scheduled at 2026-05-20 02:21:15.691567+05:00)
+2026-05-20 02:21:15,704 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:21:45 +05)" executed successfully
+2026-05-20 02:21:45,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:22:15 +05)" (scheduled at 2026-05-20 02:21:45.691567+05:00)
+2026-05-20 02:21:45,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:22:15 +05)" executed successfully
+2026-05-20 02:22:15,695 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:22:45 +05)" (scheduled at 2026-05-20 02:22:15.691567+05:00)
+2026-05-20 02:22:15,696 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:22:45 +05)" executed successfully
+2026-05-20 02:22:45,694 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:23:15 +05)" (scheduled at 2026-05-20 02:22:45.691567+05:00)
+2026-05-20 02:22:45,695 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:23:15 +05)" executed successfully
+2026-05-20 02:23:15,694 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:23:45 +05)" (scheduled at 2026-05-20 02:23:15.691567+05:00)
+2026-05-20 02:23:15,699 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:23:45 +05)" executed successfully
+2026-05-20 02:23:45,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:24:15 +05)" (scheduled at 2026-05-20 02:23:45.691567+05:00)
+2026-05-20 02:23:45,715 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:24:15 +05)" executed successfully
+2026-05-20 02:24:15,706 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:24:45 +05)" (scheduled at 2026-05-20 02:24:15.691567+05:00)
+2026-05-20 02:24:15,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:24:45 +05)" executed successfully
+2026-05-20 02:24:45,693 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:25:15 +05)" (scheduled at 2026-05-20 02:24:45.691567+05:00)
+2026-05-20 02:24:45,694 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:25:15 +05)" executed successfully
+2026-05-20 02:25:15,702 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:25:45 +05)" (scheduled at 2026-05-20 02:25:15.691567+05:00)
+2026-05-20 02:25:15,703 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:25:45 +05)" executed successfully
+2026-05-20 02:25:45,694 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:26:15 +05)" (scheduled at 2026-05-20 02:25:45.691567+05:00)
+2026-05-20 02:25:45,699 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:26:15 +05)" executed successfully
+2026-05-20 02:26:15,696 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:26:45 +05)" (scheduled at 2026-05-20 02:26:15.691567+05:00)
+2026-05-20 02:26:15,697 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:26:45 +05)" executed successfully
+2026-05-20 02:26:45,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:27:15 +05)" (scheduled at 2026-05-20 02:26:45.691567+05:00)
+2026-05-20 02:26:45,707 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:27:15 +05)" executed successfully
+2026-05-20 02:27:15,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:27:45 +05)" (scheduled at 2026-05-20 02:27:15.691567+05:00)
+2026-05-20 02:27:15,706 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:27:45 +05)" executed successfully
+2026-05-20 02:27:45,701 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:28:15 +05)" (scheduled at 2026-05-20 02:27:45.691567+05:00)
+2026-05-20 02:27:45,702 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:28:15 +05)" executed successfully
+2026-05-20 02:28:15,705 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:28:45 +05)" (scheduled at 2026-05-20 02:28:15.691567+05:00)
+2026-05-20 02:28:15,706 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:28:45 +05)" executed successfully
+2026-05-20 02:28:45,693 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:29:15 +05)" (scheduled at 2026-05-20 02:28:45.691567+05:00)
+2026-05-20 02:28:45,695 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:29:15 +05)" executed successfully
+2026-05-20 02:29:15,707 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:29:45 +05)" (scheduled at 2026-05-20 02:29:15.691567+05:00)
+2026-05-20 02:29:15,708 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:29:45 +05)" executed successfully
+2026-05-20 02:29:45,692 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:30:15 +05)" (scheduled at 2026-05-20 02:29:45.691567+05:00)
+2026-05-20 02:29:45,693 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:30:15 +05)" executed successfully
+2026-05-20 02:41:52,627 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-20 02:41:52,627 [INFO] apscheduler.scheduler: Added job "check_and_send_reminders" to job store "default"
+2026-05-20 02:41:52,627 [INFO] apscheduler.scheduler: Scheduler started
+2026-05-20 02:41:52,628 [INFO] bot.scheduler: Scheduler started — checking reminders every 30 seconds.
+2026-05-20 02:41:52,628 [INFO] __main__: Bot is starting in polling mode...
+2026-05-20 02:42:22,634 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:42:52 +05)" (scheduled at 2026-05-20 02:42:22.627753+05:00)
+2026-05-20 02:42:22,637 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:42:52 +05)" executed successfully
+2026-05-20 02:42:52,628 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:43:22 +05)" (scheduled at 2026-05-20 02:42:52.627753+05:00)
+2026-05-20 02:42:52,629 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:43:22 +05)" executed successfully
+2026-05-20 02:43:22,629 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:43:52 +05)" (scheduled at 2026-05-20 02:43:22.627753+05:00)
+2026-05-20 02:43:22,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:43:52 +05)" executed successfully
+2026-05-20 02:43:52,635 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:44:22 +05)" (scheduled at 2026-05-20 02:43:52.627753+05:00)
+2026-05-20 02:43:52,636 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:44:22 +05)" executed successfully
+2026-05-20 02:44:22,636 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:44:52 +05)" (scheduled at 2026-05-20 02:44:22.627753+05:00)
+2026-05-20 02:44:22,637 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:44:52 +05)" executed successfully
+2026-05-20 02:44:52,633 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:45:22 +05)" (scheduled at 2026-05-20 02:44:52.627753+05:00)
+2026-05-20 02:44:52,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:45:22 +05)" executed successfully
+2026-05-20 02:45:22,642 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:45:52 +05)" (scheduled at 2026-05-20 02:45:22.627753+05:00)
+2026-05-20 02:45:22,643 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:45:52 +05)" executed successfully
+2026-05-20 02:45:52,635 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:46:22 +05)" (scheduled at 2026-05-20 02:45:52.627753+05:00)
+2026-05-20 02:45:52,637 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:46:22 +05)" executed successfully
+2026-05-20 02:46:22,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:46:52 +05)" (scheduled at 2026-05-20 02:46:22.627753+05:00)
+2026-05-20 02:46:22,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:46:52 +05)" executed successfully
+2026-05-20 02:46:52,638 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:47:22 +05)" (scheduled at 2026-05-20 02:46:52.627753+05:00)
+2026-05-20 02:46:52,639 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:47:22 +05)" executed successfully
+2026-05-20 02:47:22,628 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:47:52 +05)" (scheduled at 2026-05-20 02:47:22.627753+05:00)
+2026-05-20 02:47:22,629 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:47:52 +05)" executed successfully
+2026-05-20 02:47:52,642 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:48:22 +05)" (scheduled at 2026-05-20 02:47:52.627753+05:00)
+2026-05-20 02:47:52,644 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:48:22 +05)" executed successfully
+2026-05-20 02:48:22,636 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:48:52 +05)" (scheduled at 2026-05-20 02:48:22.627753+05:00)
+2026-05-20 02:48:22,638 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:48:52 +05)" executed successfully
+2026-05-20 02:48:52,640 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:49:22 +05)" (scheduled at 2026-05-20 02:48:52.627753+05:00)
+2026-05-20 02:48:52,642 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:49:22 +05)" executed successfully
+2026-05-20 02:49:22,642 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:49:52 +05)" (scheduled at 2026-05-20 02:49:22.627753+05:00)
+2026-05-20 02:49:22,643 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:49:52 +05)" executed successfully
+2026-05-20 02:49:52,641 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:50:22 +05)" (scheduled at 2026-05-20 02:49:52.627753+05:00)
+2026-05-20 02:49:52,643 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:50:22 +05)" executed successfully
+2026-05-20 02:50:22,629 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:50:52 +05)" (scheduled at 2026-05-20 02:50:22.627753+05:00)
+2026-05-20 02:50:22,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:50:52 +05)" executed successfully
+2026-05-20 02:50:52,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:51:22 +05)" (scheduled at 2026-05-20 02:50:52.627753+05:00)
+2026-05-20 02:50:52,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:51:22 +05)" executed successfully
+2026-05-20 02:51:22,638 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:51:52 +05)" (scheduled at 2026-05-20 02:51:22.627753+05:00)
+2026-05-20 02:51:22,639 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:51:52 +05)" executed successfully
+2026-05-20 02:51:52,642 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:52:22 +05)" (scheduled at 2026-05-20 02:51:52.627753+05:00)
+2026-05-20 02:51:52,643 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:52:22 +05)" executed successfully
+2026-05-20 02:52:22,634 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:52:52 +05)" (scheduled at 2026-05-20 02:52:22.627753+05:00)
+2026-05-20 02:52:22,638 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:52:52 +05)" executed successfully
+2026-05-20 02:52:52,634 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:53:22 +05)" (scheduled at 2026-05-20 02:52:52.627753+05:00)
+2026-05-20 02:52:52,636 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:53:22 +05)" executed successfully
+2026-05-20 02:53:22,640 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:53:52 +05)" (scheduled at 2026-05-20 02:53:22.627753+05:00)
+2026-05-20 02:53:22,641 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:53:52 +05)" executed successfully
+2026-05-20 02:53:52,630 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:54:22 +05)" (scheduled at 2026-05-20 02:53:52.627753+05:00)
+2026-05-20 02:53:52,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:54:22 +05)" executed successfully
+2026-05-20 02:54:22,628 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:54:52 +05)" (scheduled at 2026-05-20 02:54:22.627753+05:00)
+2026-05-20 02:54:22,630 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:54:52 +05)" executed successfully
+2026-05-20 02:54:52,643 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:55:22 +05)" (scheduled at 2026-05-20 02:54:52.627753+05:00)
+2026-05-20 02:54:52,644 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:55:22 +05)" executed successfully
+2026-05-20 02:55:22,636 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:55:52 +05)" (scheduled at 2026-05-20 02:55:22.627753+05:00)
+2026-05-20 02:55:22,637 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:55:52 +05)" executed successfully
+2026-05-20 02:55:52,633 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:56:22 +05)" (scheduled at 2026-05-20 02:55:52.627753+05:00)
+2026-05-20 02:55:52,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:56:22 +05)" executed successfully
+2026-05-20 02:56:22,633 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:56:52 +05)" (scheduled at 2026-05-20 02:56:22.627753+05:00)
+2026-05-20 02:56:22,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:56:52 +05)" executed successfully
+2026-05-20 02:56:52,638 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:57:22 +05)" (scheduled at 2026-05-20 02:56:52.627753+05:00)
+2026-05-20 02:56:52,639 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:57:22 +05)" executed successfully
+2026-05-20 02:57:22,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:57:52 +05)" (scheduled at 2026-05-20 02:57:22.627753+05:00)
+2026-05-20 02:57:22,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:57:52 +05)" executed successfully
+2026-05-20 02:57:52,646 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:58:22 +05)" (scheduled at 2026-05-20 02:57:52.627753+05:00)
+2026-05-20 02:57:52,658 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:58:22 +05)" executed successfully
+2026-05-20 02:58:22,628 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:58:52 +05)" (scheduled at 2026-05-20 02:58:22.627753+05:00)
+2026-05-20 02:58:22,630 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:58:52 +05)" executed successfully
+2026-05-20 02:58:52,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:59:22 +05)" (scheduled at 2026-05-20 02:58:52.627753+05:00)
+2026-05-20 02:58:52,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:59:22 +05)" executed successfully
+2026-05-20 02:59:22,640 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:59:52 +05)" (scheduled at 2026-05-20 02:59:22.627753+05:00)
+2026-05-20 02:59:22,641 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 02:59:52 +05)" executed successfully
+2026-05-20 02:59:52,641 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:00:22 +05)" (scheduled at 2026-05-20 02:59:52.627753+05:00)
+2026-05-20 02:59:52,643 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:00:22 +05)" executed successfully
+2026-05-20 03:00:22,635 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:00:52 +05)" (scheduled at 2026-05-20 03:00:22.627753+05:00)
+2026-05-20 03:00:22,636 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:00:52 +05)" executed successfully
+2026-05-20 03:00:52,628 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:01:22 +05)" (scheduled at 2026-05-20 03:00:52.627753+05:00)
+2026-05-20 03:00:52,630 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:01:22 +05)" executed successfully
+2026-05-20 03:01:22,630 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:01:52 +05)" (scheduled at 2026-05-20 03:01:22.627753+05:00)
+2026-05-20 03:01:22,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:01:52 +05)" executed successfully
+2026-05-20 03:01:48,855 [ERROR] TeleBot: Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-05-20 03:01:48,856 [ERROR] TeleBot: Exception traceback:
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1251, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1103, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1101, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1189, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1264, in __threaded_polling
+    raise e
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1225, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 687, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 659, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\apihelper.py", line 330, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+
+2026-05-20 03:01:52,633 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:02:22 +05)" (scheduled at 2026-05-20 03:01:52.627753+05:00)
+2026-05-20 03:01:52,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:02:22 +05)" executed successfully
+2026-05-20 03:02:22,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:02:52 +05)" (scheduled at 2026-05-20 03:02:22.627753+05:00)
+2026-05-20 03:02:22,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:02:52 +05)" executed successfully
+2026-05-20 03:02:52,636 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:03:22 +05)" (scheduled at 2026-05-20 03:02:52.627753+05:00)
+2026-05-20 03:02:52,637 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:03:22 +05)" executed successfully
+2026-05-20 03:03:22,640 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:03:52 +05)" (scheduled at 2026-05-20 03:03:22.627753+05:00)
+2026-05-20 03:03:22,642 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:03:52 +05)" executed successfully
+2026-05-20 03:03:32,686 [ERROR] TeleBot: Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-05-20 03:03:32,688 [ERROR] TeleBot: Exception traceback:
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\util\retry.py", line 498, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\util\util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\urllib3\connection.py", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Пользователь\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1101, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1189, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1264, in __threaded_polling
+    raise e
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 1225, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 687, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\__init__.py", line 659, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\apihelper.py", line 330, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\telebot\apihelper.py", line 162, in _make_request
+    result = _get_req_session().request(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\W\python\project\student_bot\student_bot\venv\Lib\site-packages\requests\adapters.py", line 682, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+2026-05-20 03:03:52,641 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:04:22 +05)" (scheduled at 2026-05-20 03:03:52.627753+05:00)
+2026-05-20 03:03:52,642 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:04:22 +05)" executed successfully
+2026-05-20 03:04:22,639 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:04:52 +05)" (scheduled at 2026-05-20 03:04:22.627753+05:00)
+2026-05-20 03:04:22,640 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:04:52 +05)" executed successfully
+2026-05-20 03:04:52,635 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:05:22 +05)" (scheduled at 2026-05-20 03:04:52.627753+05:00)
+2026-05-20 03:04:52,636 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:05:22 +05)" executed successfully
+2026-05-20 03:05:22,640 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:05:52 +05)" (scheduled at 2026-05-20 03:05:22.627753+05:00)
+2026-05-20 03:05:22,641 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:05:52 +05)" executed successfully
+2026-05-20 03:05:52,632 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:06:22 +05)" (scheduled at 2026-05-20 03:05:52.627753+05:00)
+2026-05-20 03:05:52,633 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:06:22 +05)" executed successfully
+2026-05-20 03:06:22,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:06:52 +05)" (scheduled at 2026-05-20 03:06:22.627753+05:00)
+2026-05-20 03:06:22,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:06:52 +05)" executed successfully
+2026-05-20 03:06:52,632 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:07:22 +05)" (scheduled at 2026-05-20 03:06:52.627753+05:00)
+2026-05-20 03:06:52,634 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:07:22 +05)" executed successfully
+2026-05-20 03:07:22,637 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:07:52 +05)" (scheduled at 2026-05-20 03:07:22.627753+05:00)
+2026-05-20 03:07:22,638 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:07:52 +05)" executed successfully
+2026-05-20 03:07:52,630 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:08:22 +05)" (scheduled at 2026-05-20 03:07:52.627753+05:00)
+2026-05-20 03:07:52,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:08:22 +05)" executed successfully
+2026-05-20 03:08:22,629 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:08:52 +05)" (scheduled at 2026-05-20 03:08:22.627753+05:00)
+2026-05-20 03:08:22,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:08:52 +05)" executed successfully
+2026-05-20 03:08:52,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:09:22 +05)" (scheduled at 2026-05-20 03:08:52.627753+05:00)
+2026-05-20 03:08:52,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:09:22 +05)" executed successfully
+2026-05-20 03:09:22,630 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:09:52 +05)" (scheduled at 2026-05-20 03:09:22.627753+05:00)
+2026-05-20 03:09:22,631 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:09:52 +05)" executed successfully
+2026-05-20 03:09:52,639 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:10:22 +05)" (scheduled at 2026-05-20 03:09:52.627753+05:00)
+2026-05-20 03:09:52,640 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:10:22 +05)" executed successfully
+2026-05-20 03:10:22,631 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:10:52 +05)" (scheduled at 2026-05-20 03:10:22.627753+05:00)
+2026-05-20 03:10:22,632 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:10:52 +05)" executed successfully
+2026-05-20 03:10:52,637 [INFO] apscheduler.executors.default: Running job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:11:22 +05)" (scheduled at 2026-05-20 03:10:52.627753+05:00)
+2026-05-20 03:10:52,654 [INFO] apscheduler.executors.default: Job "check_and_send_reminders (trigger: interval[0:00:30], next run at: 2026-05-20 03:11:22 +05)" executed successfully
